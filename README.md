@@ -9,7 +9,7 @@ To work with Visual Studio Code and GitHub: install Git, clone repository, write
 
 ## Table of Contents
 1. [Налаштування середовища](#FirstTask)
-2. [Створення репозиторію](#)
+2. [Створення репозиторію](#SecondTask)
 3. [Оформлення робіт та перша програма](#оформлення-робіт-та-перша-програма)
 4. [Основи Python](#основи-python)
 
@@ -27,7 +27,7 @@ The development environment is now fully configured for future work.
 
 ### 2. Створення репозиторію 📂
 
-In this task, the repository was created, the development environment was connected, and the first commit was successfully made. As **Ihor Kastranets** has prior experience working with Markdown, formatting documentation and readme files in Markdown is familiar and straightforward. This background allows for efficient handling of the project’s documentation needs without the need for additional learning curves.
+In this task, the repository was created, the development environment was connected, and the first commit was successfully made. I have prior experience working with Markdown, formatting documentation and readme files in Markdown is familiar and straightforward. This background allows for efficient handling of the project’s documentation needs without the need for additional learning curves.
 
 ### 3. Оформлення робіт та перша програма 💻
 
